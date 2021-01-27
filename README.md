@@ -1,3 +1,6 @@
+our heroku website may be unavailable since heroku free trial expires
+
+
 # TuneS (Front-End)
 
 TuneS is a music search and social website powered by Spotify Web API. Major features are:
